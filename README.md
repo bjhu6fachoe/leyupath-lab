@@ -1,2 +1,14 @@
 # leyupath-lab
-HTML page archive and documentation
+
+发布页面归档目录
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
